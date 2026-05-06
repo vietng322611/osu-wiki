@@ -1,3 +1,16 @@
+---
+tags:
+  - mute
+  - timeout
+  - chat ban
+  - muteo
+  - mutear
+  - baneo del chat
+  - baneado del chat
+outdated_translation: true
+outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
+---
+
 # Silencio
 
 **Silencio** es el término usado para describir el castigo de limitar los medios de comunicación de un usuario dentro de la comunidad de osu!. Los miembros del [Global Moderation Team](/wiki/People/Global_Moderation_Team) y del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) suelen dar estos silencios para mantener un ambiente limpio, tanto en el sitio web como en el juego.

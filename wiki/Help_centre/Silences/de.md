@@ -1,3 +1,14 @@
+---
+tags:
+  - mute
+  - timeout
+  - chat ban
+  - Auszeit
+  - Chatsperre
+outdated_translation: true
+outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
+---
+
 # Stummschaltung
 
 Eine **Stummschaltung** (auch *Silence* genannt) ist eine Strafe, bei der einem Spieler die Kommunikation innerhalb der osu!-Community verwehrt wird. Stummschaltungen können durch Mitglieder des [Globalen Moderationsteams](/wiki/People/Global_Moderation_Team) und des [Nomination Assessment Teams](/wiki/People/Nomination_Assessment_Team) festgelegt werden, damit die allgemeine Umgangsform auf der Webseite und im Spiel angemessen bleibt.

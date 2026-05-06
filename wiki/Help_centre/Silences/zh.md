@@ -1,3 +1,15 @@
+---
+tags:
+  - mute
+  - timeout
+  - chat ban
+  - 禁言
+  - 超时
+  - 聊天封禁
+outdated_translation: true
+outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
+---
+
 # 禁言
 
 **禁言** 是一个术语，即限制玩家在 osu! 社区内聊天活动的惩罚。[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) 和 [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 成员可以禁言其他玩家，来保证网站和游戏内有一个和善文明的环境。
